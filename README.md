@@ -43,3 +43,9 @@ To add your shared library:
     Select the Git type
     Project repository: https://github.com/frvasquezjaquez/custom-jenkins-library.git
     ```
+
+
+
+# Reference
+ - https://tomd.xyz/jenkins-shared-library/
+ - https://www.jenkins.io/doc/book/pipeline/shared-libraries/
